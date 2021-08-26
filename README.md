@@ -1,15 +1,3 @@
-Aula - 1 :D
-
-Create React App
-
-Conceitos: - Componente - Propriedades - Estado
-
-Projeto Firebase - Conectando firebase no React
-
-Variaveis ambiente .env.local
-
-Configuraçõe iniciais :tada:
-
 <p align="center">
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
