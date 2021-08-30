@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/assets/images/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://github.com/davidrappa/letmeask-nlw-6/blob/master/assets/image/logo.svg?raw=true">
 </p>
 
 <p align="center">
